@@ -1,2 +1,8 @@
-# CMPE184-CursorProject-CleanRepo
-This is a repo made for a project to simulate the CurXecute Vulnerability. This is the clean repo with no viruses.
+# CleanRepo
+A simple, safe Python project.
+
+## What it does
+Displays a friendly ASCII dinosaur.
+
+## Usage
+Run main.py to see the dinosaur!
